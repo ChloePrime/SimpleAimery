@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simpleaimery",
+  "name": "Simple Aimery",
+  "description": "Aiming and lock your sight at your enemy!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.gensoukyo.moe",
+  "updateUrl": "",
+  "authorList": ["ChloePrime"],
+  "credits": "The Forge and FML guys, for making the modding environment!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,19 @@
+#PARSE_ESCAPES
+key.simpleaimery=Simple Aimery
+key.simpleaimery.aim=Aim At Target
+key.simpleaimery.swapSide=Swap Side
+
+simpleaimery.config.maxDeltaAngle=Max Angular Distance
+simpleaimery.config.maxDeltaAngle.tooltip=Max delta angle that can be considered as a valid target
+simpleaimery.config.sortMethodSep=Sort Method Separation
+simpleaimery.config.sortMethodSep.tooltip=Separation between comparing distance or angle when sorting target priority
+simpleaimery.config.interpolationSpeed=Interpolation Speed
+simpleaimery.config.interpolationSpeed.tooltip=Smooth animation speed
+simpleaimery.config.thirdPersonOffset=Third Person Offset
+simpleaimery.config.thirdPersonOffset.tooltip=Third person offset along screen x
+simpleaimery.config.disableHighlight=Disable Highlight
+simpleaimery.config.disableHighlight.tooltip=Disable highlight of the target when locking at it
+simpleaimery.config.blacklist=Blacklist
+simpleaimery.config.blacklist.tooltip=Items that will disable this mod when holding in mainhand
+simpleaimery.config.blacklistAsWhitelist=Blacklist As Whitelist
+simpleaimery.config.blacklistAsWhitelist.tooltip=Blacklist Is Actually Whitelist
